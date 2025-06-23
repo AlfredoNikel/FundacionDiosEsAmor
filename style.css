@@ -176,3 +176,12 @@ footer.footer {
     font-size: 1.6rem;
   }
 }
+
+
+.rotate-on-click {
+  transition: transform 0.6s ease;
+}
+
+.rotate {
+  transform: rotate(360deg);
+}
