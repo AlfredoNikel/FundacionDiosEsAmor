@@ -178,10 +178,11 @@ footer.footer {
 }
 
 
-.rotate-on-click {
+rotate-on-click {
   transition: transform 0.6s ease;
 }
 
 .rotate {
   transform: rotate(360deg);
-}
+  }
+    
